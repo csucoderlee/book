@@ -1,5 +1,23 @@
 # book项目 主要是用来记录自己学习的一些零散知识点
 
-## 1. fastjson
-&ensp;&ensp;&ensp;&ensp;第一个问题就是fastjson为什么so fast?
-### 1.1 fastjson的一些不足
+## Markdown的一些常用语法
+- 换行 敲键盘 两下空格 + 回车
+- 缩进 &ensp
+- 无序列表  *空格 或者 -空格
+- 有序列表 1.空格
+- 引用 >
+- 插入链接 []()
+- 插入图片 ![]()
+- 粗体与斜体 ** code **
+- 代码引用 ``
+- 分割线 ***
+
+
+
+
+##FastJson
+- fastjson为什么so fast?
+- fastjson的不足
+
+##Spring消息转换机制
+> 请求报文 -> 对象 -> 响应报文	
