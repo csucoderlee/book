@@ -22,6 +22,9 @@
 ## Spring消息转换机制
 > 请求报文 -> 对象 -> 响应报文	
 
+## Spring bean注入
+- 有状态的bean用prototype 无状态的bean用singleton
+
 ## 程序员必备情商
 - 心态好
 - 不焦虑
