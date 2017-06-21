@@ -42,3 +42,6 @@
 
 ## java
 - javadoc 生成文档API
+
+## 服务器问题排查
+- top -c
