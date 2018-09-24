@@ -55,3 +55,7 @@ http://start.spring.io 创建一个最简单的依赖Web模块的SpringBoot的�
 早起版本的springboot启动类是要声明这三个注解的，但是每次都写这么多比较麻烦，所以新版本中都只需要声明@SpringBootApplication这个复合注解就可以了。
 
 #### 3.2.1 @Configuration创世纪
+
+
+#### 3.2.2 @EnableAutoConfiguration的功效
+@Enable开头的注解，在spring中都是借助@Import的支持，收集和注册特定场景相关的bean定义
