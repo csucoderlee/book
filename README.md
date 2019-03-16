@@ -59,3 +59,18 @@
 
 ## ubuntu
 - 搞了新版本18.04
+
+
+## 工程目录结构
+
+### ./flink  该目录下是flink的学习笔记
+
+#### ./flink/book  该文件夹下的内容是相关的flink书籍的读书笔记
+
+##### MasteringApacheFlink 文件夹
+此文件夹下的内容是 Mastering Apache Flink一书的相关内容
+- Mastering Apache Flink
+ (7人评价)
+- 作者: Tanmay Deshpande 
+- 出版社: Packt Publishing - ebooks Account 
+- 出版年: 2017-3-6
