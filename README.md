@@ -45,6 +45,8 @@
 
 ## 服务器问题排查
 - top -c
+- top -Hp
+- jstack -pid > temp.txt
 
 ## 最近安排
 看完《大型网站系统与Java中间件实践》
@@ -70,7 +72,6 @@
 ##### MasteringApacheFlink 文件夹
 此文件夹下的内容是 Mastering Apache Flink一书的相关内容
 - Mastering Apache Flink
- (7人评价)
 - 作者: Tanmay Deshpande 
 - 出版社: Packt Publishing - ebooks Account 
 - 出版年: 2017-3-6
